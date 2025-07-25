@@ -41,6 +41,9 @@
 ###
 
 <div align="left">
+  <img src="https://defkey.com/images/program/ida-pro-7.4-2020-06-30_11-24-23-icon-resized.png" height="40" alt="ida pro logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/src/bug64.ico" height="40" alt="x64dbg logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -56,9 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img src="https://defkey.com/images/program/ida-pro-7.4-2020-06-30_11-24-23-icon-resized.png" height="40" alt="ida pro logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/src/bug64.ico" height="40" alt="x64dbg logo" />
 </div>
 
 ###
