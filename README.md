@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband&left_color=red&right_color=brown&left_text=number"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband&left_color=red&right_color=brown&left_text=visitors"  />
 </div>
 
 ###
