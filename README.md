@@ -54,11 +54,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hutaoshusband/hutaoshusband/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hutaoshusband/hutaoshusband/output/pacman-contribution-graph.svg">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&" alt="hutaoshusband" /></p>
-</picture>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&" alt="hutaoshusband" /></p>
 
 ###
 
