@@ -50,11 +50,11 @@
 
 ###
 
-<h6 align="left">About HUTAOSHUSBAND:<br>💻 Software Security Engineer: Packing, Anti-Debugging, Anti-Unpack, Anti-Dump<br>🔍 Reverse Engineering: IDA Pro, x64dbg, CFF Explorer, DIE, Scylla Hide<br>🌐 WallBangBros.com: My thing with @JonasSchuettler – cool Videogame cheats coming!<br>🔒 Closed-Source Projects, but sometimes 🔓 Open-Source (rarely)</h6>
+<h5 align="left">About HUTAOSHUSBAND:<br>💻 Software Security Engineer: Packing, Anti-Debugging, Anti-Unpack, Anti-Dump<br>🔍 Reverse Engineering: IDA Pro, x64dbg, CFF Explorer, DIE, Scylla Hide<br>🌐 WallBangBros.com: My thing with @JonasSchuettler – cool Videogame cheats coming!<br>🔒 Closed-Source Projects, but sometimes 🔓 Open-Source (rarely)</h5>
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&" alt="hutaoshusband" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband/></p>
 
 ###
 
