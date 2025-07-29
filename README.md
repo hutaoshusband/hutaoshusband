@@ -54,7 +54,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&" alt="hutaoshusband" /></p>
 
 ###
 
