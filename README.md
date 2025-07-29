@@ -53,9 +53,9 @@
 <h3 align="left">About HUTAOSHUSBAND:<br><br>💻 Software Security Engineer: Packing, Anti-Debugging, Anti-Unpack, Anti-Dump<br>🔍 Reverse Engineering: IDA Pro, x64dbg, CFF Explorer, DIE, Scylla Hide<br>🌐 WallBangBros.com: My thing with @JonasSchuettler – cool Videogame cheats coming!<br>🔒 Closed-Source Projects, but sometimes 🔓 Open-Source (rarely)</h3>
 
 ###
-
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=hutaoshusband&theme=dark" alt="GitHub Streak" />
-
+</div>
 ###
 
 <div align="center">
