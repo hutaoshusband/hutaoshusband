@@ -50,7 +50,7 @@
 
 ###
 
-<h5 align="left">About HUTAOSHUSBAND:<br>💻 Software Security Engineer: Packing, Anti-Debugging, Anti-Unpack, Anti-Dump<br>🔍 Reverse Engineering: IDA Pro, x64dbg, CFF Explorer, DIE, Scylla Hide<br>🌐 WallBangBros.com: My thing with @JonasSchuettler – cool Videogame cheats coming!<br>🔒 Closed-Source Projects, but sometimes 🔓 Open-Source (rarely)</h5>
+<h4 align="left">About HUTAOSHUSBAND:<br>💻 Software Security Engineer: Packing, Anti-Debugging, Anti-Unpack, Anti-Dump<br>🔍 Reverse Engineering: IDA Pro, x64dbg, CFF Explorer, DIE, Scylla Hide<br>🌐 WallBangBros.com: My thing with @JonasSchuettler – cool Videogame cheats coming!<br>🔒 Closed-Source Projects, but sometimes 🔓 Open-Source (rarely)</h4>
 
 ###
 
@@ -61,5 +61,9 @@
 <div align="center">
   <img height="300" src="https://www.hackingloops.com/wp-content/uploads/2023/01/x64dbg-download.png"  />
 </div>
+
+###
+
+<h3 align="left">Interests<br><br>🛡️ Cybersecurity<br>🔧 Reverse Engineering<br>🎲 Gaming: Whether it’s playing or poking at game code, I’m there.<br>💬 Tech Talks: Hit me up to chat about security or nerdy stuff!<br><br>Check out my Discord Server for some tech talk! 😎</h3>
 
 ###
