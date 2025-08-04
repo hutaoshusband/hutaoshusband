@@ -12,8 +12,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband&"  />
 </div>
 
----
-
 ## 🚀 WallbangBros.com – Dev & Cheat Community
 
 Join our underground reverse engineering and game modding community:  
