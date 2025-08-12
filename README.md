@@ -15,6 +15,24 @@
 ###
 
 <div align="center">
+  <a href="https://www.discord.gg/dUCNKkS2Ve/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@hutaoshusband" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.t.me/hutaos_husband/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Join our underground community on Discord!<br>WallbangBros is the place for reverse engineering or cheating. <br>Connect with devs, hackers, and legit gamers who share passion.<br><br>🔗 Check us out:<br>🌐 Forum: WallbangBros.com<br>💬 Discord: discord.gg/dUCNKkS2Ve</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
@@ -45,28 +63,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.discord.gg/dUCNKkS2Ve/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@hutaoshusband" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.t.me/hutaos_husband/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🛡️ Cybersecurity<br>🔧 Reverse Engineering<br>🎲 Gaming<br>💬 Tech Talks<br><br>Join our underground community on Discord!<br>WallbangBros is the place for reverse engineering, game modding, and private cheat discussions.<br>Connect with devs, hackers, and legit gamers who share your passion.<br><br>🔗 Check us out:<br>🌐 Forum: WallbangBros.com<br>💬 Discord: discord.gg/dUCNKkS2Ve</h3>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutaoshusband&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=hutaoshusband&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=hutaoshusband&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
