@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">Join our underground community on Discord!<br>WallbangBros is the place for reverse engineering or cheating. <br>Connect with devs, hackers, and legit gamers who share passion.<br><br>🔗 Check us out:<br>🌐 Forum: WallbangBros.com<br>💬 Discord: discord.gg/dUCNKkS2Ve</h4>
+<h3 align="left">Join our underground community on Discord!<br>WallbangBros is the place for reverse engineering or cheating. <br>Connect with devs, hackers, and legit gamers who share passion.<br><br>🔗 Check us out:<br>🌐 Forum: WallbangBros.com<br>💬 Discord: discord.gg/dUCNKkS2Ve</h3>
 
 ###
 
