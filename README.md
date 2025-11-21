@@ -4,33 +4,21 @@
 
 <div align="center"> <a href="https://www.discord.gg/dUCNKkS2Ve/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /> </a> <a href="https://www.youtube.com/@hutaoshusband" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /> </a> <a href="https://www.t.me/hutaos_husband/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" /> </a> </div>
 
+
 👻 Director of Binary Funerals & Software Protection
 "Protecting binaries with the same devotion I give to the 77th Director."
 
 I am a High-Level Security Researcher and Systems Programmer specializing in C++, Rust, C, and C#. My focus is on the deep technical aspects of Game Hacking, Reverse Engineering, and Software Protection.
-
 🛡️ Protector Development: I engineer custom software protectors similar to Enigma Protector and VMProtect. My work involves writing custom Virtualization Engines (VM), Mutation algorithms, and Obfuscators to shield code from static and dynamic analysis.
-
 ⚙️ Core Tech: Mastery of C++ & Rust for performant, memory-safe tooling and Assembly (x86/x64) for low-level manipulation.
-
 🔓 Reverse Engineering: Specializing in breaking down binary defenses, unpacking malware, and understanding internal game logic.
 
+
 <h3 align="left">Join our underground community on Discord!
-
-
 WallbangBros is the place for reverse engineering or cheating.
-
-
 Connect with devs, hackers, and legit gamers who share passion.
-
-
-
 🔗 Check us out:
-
-
 🌐 Forum: WallbangBros.com
-
-
 💬 Discord: discord.gg/dUCNKkS2Ve</h3>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="Hutaoshusband Activity Graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutaoshusband&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Hutaoshusband Top Languages" /> <img src="https://streak-stats.demolab.com?user=hutaoshusband&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Hutaoshusband Streak Stats" /> <img src="https://github-profile-trophy.vercel.app?username=hutaoshusband&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Hutaoshusband Trophies" /> </div>
