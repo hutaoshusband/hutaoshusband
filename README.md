@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <!-- Direct banner URL (replaces camo proxy to avoid 'Bad Signature') -->
-  <img height="150" src="https://64.media.tumblr.com/33310a2c/media.gif" alt="Hu Tao Banner - Hutaoshusband" />
+  <img height="150" src="https://camo.githubusercontent.com/71628c1ba4faea5763842142778cfd77dab09b279a346ff30c156d529950641b/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f33333331306132636539363237333137343036356139376234383264653331652f353035353032376132356363663437382d30302f73353030783735302f373035306533653265626132653536303432343562633661343033393535653033376465356434642e676966"
+       alt="Hu Tao Banner - Hutaoshusband" />
 </div>
 
 <div align="center">
