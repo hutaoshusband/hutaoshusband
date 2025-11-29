@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <!-- Fixed banner image: using the full camo URL that proxies the original Tumblr image -->
-  <img height="150" src="https://camo.githubusercontent.com/71628c1ba4faea5763842142778cfd77dab09b279a346ff30c156d529950641b/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f33333331306132632f6d656469612e676966" alt="Hu Tao Banner - Hutaoshusband" />
+  <!-- Direct banner URL (replaces camo proxy to avoid 'Bad Signature') -->
+  <img height="150" src="https://64.media.tumblr.com/33310a2c/media.gif" alt="Hu Tao Banner - Hutaoshusband" />
 </div>
 
 <div align="center">
