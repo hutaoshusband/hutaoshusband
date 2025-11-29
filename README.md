@@ -56,16 +56,14 @@ Here are the public sites/projects you asked to be included — links are format
 
 - ✉️ end2end.space — https://end2end.space  
   A free pastebin-style service built together with @Jonasschuettler — lightweight, privacy-oriented paste sharing.
-
-(If you want, I can expand each project's section with screenshots, usage notes, or repo links.)
-
+  
 ---
 
 <h3 align="left">Community — WallbangBros</h3>
 
-Join our underground community on Discord for reverse engineering, security research, and game hacking.
+Join our underground community on Discord for reverse engineering and game hacking.
 
-- 🌐 Forum: https://wallbangbros.com  
+- 🌐 Forum: https://wallbangbros.com
 - 💬 Discord: https://discord.gg/dUCNKkS2Ve
 
 ---
