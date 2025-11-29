@@ -27,35 +27,33 @@
 I am a **High-Level Security Researcher** and **Systems Programmer** specializing in **C++, Rust, C, and C#**.  
 My expertise lies deeply in **Game Hacking**, **Reverse Engineering**, and **Software Protection**.
 
-### 🛡️ Protector Development
+### 🛡️ Protector Dev
 I build custom protectors inspired by tools such as **Enigma Protector** and **VMProtect** —  
 including custom **Virtualization Engines**, **Mutation Pipelines**, **Obfuscators**, and **Anti-Analysis** layers.
 
-### ⚙️ Core Technologies
+### ⚙️ Languages and Architecture
 - Advanced C++ / Rust tooling  
 - x86/x64 Assembly for low-level manipulation  
 - Runtime loaders, packer stubs, secure VM architectures
 
 ### 🔓 Reverse Engineering
-- Binary defense dismantling  
+- Binary dismantling  
 - Malware unpacking  
 - Game logic exploration  
-- Anti-debug bypassing
+- Protection bypassing
 
 ---
 
 <h3 align="left">Featured projects</h3>
 
-Here are the public sites/projects you asked to be included — links are formatted and point to the live domains:
-
 - 🔥 FireflyProtector — https://fireflyprotector.xyz  
-  A site focused on CyberSecurity Analysis, Unpackers, Packers, Virtualization protections and multilayer obfuscators (custom VM layers and anti-analysis tooling).
+  A site focused on CyberSecurity Analysis, Unpackers, Packers, Virtualization protections and multilayer obfuscators.
 
 - 🧩 CodeConfuser — https://codeconfuser.dev  
   A JavaScript protection site built around JS-Reactor (a JS protector / virtualization approach). Not updated frequently but contains resources on VM-based protection and compatibility-focused protectors.
 
 - ✉️ end2end.space — https://end2end.space  
-  A free pastebin-style service built together with @Jonasschuettler — lightweight, privacy-oriented paste sharing.
+  A free pastebin-style service built together with @Jonasschuettler, lightweight, privacy-oriented paste sharing.
   
 ---
 
@@ -113,6 +111,3 @@ Join our underground community on Discord for reverse engineering and game hacki
 <div align="center">
   <sub>Search Tags: HUTAOSHUSBAND, Hu Tao's Husband, Game Hacking, Enigma Protector, Obfuscator Dev, Rust Security, Reverse Engineering, FireflyProtector, CodeConfuser, end2end</sub>
 </div>
-
-<!-- Hidden search keywords (preserved as requested) -->
-<!-- google-site-verification and other hidden meta/search tags should be added via repository settings or site meta where applicable. -->
