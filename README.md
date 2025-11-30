@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.discord.gg/dUCNKkS2Ve/" target="_blank">
+  <a href="https://discord.gg/dUCNKkS2Ve" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://www.youtube.com/@hutaoshusband" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <a href="https://www.youtube.com/@hutaoshusband" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://www.t.me/hutaos_husband/" target="_blank">
+  <a href="https://t.me/hutaos_husband" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
@@ -27,39 +27,49 @@
 I am a **High-Level Security Researcher** and **Systems Programmer** specializing in **C++, Rust, C, and C#**.  
 My expertise lies deeply in **Game Hacking**, **Reverse Engineering**, and **Software Protection**.
 
-### 🛡️ Protector Development
-I build custom protectors inspired by **Enigma Protector** and **VMProtect** —  
-including **Virtualization Engines**, **Mutation Pipelines**, **Obfuscators**, and **Anti-Analysis** layers.
+### 🛡️ Protector Dev
+I build custom protectors inspired by tools such as **Enigma Protector** and **VMProtect** —  
+including custom **Virtualization Engines**, **Mutation Pipelines**, **Obfuscators**, and **Anti-Analysis** layers.
 
-### ⚙️ Core Technologies
+### ⚙️ Languages and Architecture
 - Advanced C++ / Rust tooling  
 - x86/x64 Assembly for low-level manipulation  
-- Runtime loaders, packer stubs, secure VM architectures  
+- Runtime loaders, packer stubs, secure VM architectures
 
 ### 🔓 Reverse Engineering
-- Binary defense dismantling  
+- Binary dismantling  
 - Malware unpacking  
 - Game logic exploration  
-- Anti-debug bypassing  
+- Protection bypassing
 
 ---
 
-<h3 align="left">Join our underground community on Discord!</h3>
+<h3 align="left">Featured projects</h3>
 
-**WallbangBros** is the place for reverse engineering, security research, and game hacking.  
-Connect with developers, hackers, and passionate gamers.
+- 🔥 FireflyProtector — https://fireflyprotector.xyz  
+  A site focused on CyberSecurity Analysis, Unpackers, Packers, Virtualization protections and multilayer obfuscators.
 
-🔗 **Check us out:**
+- 🧩 CodeConfuser — https://codeconfuser.dev  
+  A JavaScript protection site built around JS-Reactor (a JS protector / virtualization approach). Not updated frequently but contains resources on VM-based protection and compatibility-focused protectors.
 
-- 🌐 Forum: **WallbangBros.com**  
-- 💬 Discord: **discord.gg/dUCNKkS2Ve**
+- ✉️ end2end.space — https://end2end.space  
+  A free pastebin-style service built together with @Jonasschuettler, lightweight, privacy-oriented paste sharing.
+  
+---
+
+<h3 align="left">Community — WallbangBros</h3>
+
+Join our underground community on Discord for reverse engineering and game hacking.
+
+- 🌐 Forum: https://wallbangbros.com
+- 💬 Discord: https://discord.gg/dUCNKkS2Ve
 
 ---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="Hutaoshusband Activity Graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutaoshusband&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Hutaoshusband Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutaoshusband&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top languages" />
 
   <img src="https://streak-stats.demolab.com?user=hutaoshusband&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Hutaoshusband Streak Stats" />
 
@@ -99,5 +109,5 @@ Connect with developers, hackers, and passionate gamers.
 ---
 
 <div align="center">
-  <sub>Search Tags: HUTAOSHUSBAND, Hu Tao's Husband, Game Hacking, Enigma Protector, Obfuscator Dev, Rust Security, Reverse Engineering</sub>
+  <sub>Search Tags: HUTAOSHUSBAND, Hu Tao's Husband, Game Hacking, Enigma Protector, Obfuscator Dev, Rust Security, Reverse Engineering, FireflyProtector, CodeConfuser, end2end</sub>
 </div>
