@@ -22,46 +22,40 @@
 <h1 align="center">👻 Director of Binary Funerals & Software Protection</h1>
 <h3 align="center">"Protecting binaries with the same devotion I give to the 77th Director."</h3>
 
-I am a High-Level Security Researcher and Systems Programmer specializing in C++, Rust, C, and C#.  
+I am a High-Level Security Researcher and Systems Programmer specializing in C++, Rust, C, and C#.
 My expertise lies deeply in Game Hacking, Reverse Engineering, and Software Protection.
 
-🛡️ Protector Dev
+### 🛡️ Protector Dev
 
-I build custom protectors inspired by tools such as Enigma Protector and VMProtect —  
+I build custom protectors inspired by tools such as Enigma Protector and VMProtect —
 including custom Virtualization Engines, Mutation Pipelines, Obfuscators, and Anti-Analysis layers.
 
-⚙️ Languages and Architecture
+### ⚙️ Languages and Architecture
 
-Advanced C++ / Rust tooling  
+- Advanced C++ / Rust tooling
+- x86/x64 Assembly for low-level manipulation
+- Runtime loaders, packer stubs, secure VM architectures
 
-x86/x64 Assembly for low-level manipulation  
+### 🔓 Reverse Engineering
 
-Runtime loaders, packer stubs, secure VM architectures
+- Binary dismantling
+- Malware unpacking
+- Game logic exploration
+- Protection bypassing
 
-🔓 Reverse Engineering
+### Featured projects
 
-Binary dismantling  
+- **🔥 FireflyProtector** — [https://fireflyprotector.xyz](https://fireflyprotector.xyz)
+  A site focused on CyberSecurity Analysis, Unpackers, Packers, Virtualization protections and multilayer obfuscators.
 
-Malware unpacking  
+- **🧩 CodeConfuser** — [https://codeconfuser.dev](https://codeconfuser.dev)
+  A JavaScript protection site built around JS-Reactor (a JS protector / virtualization approach). Not updated frequently but contains resources on VM-based protection and compatibility-focused protectors.
 
-Game logic exploration  
+- **✉️ end2end.space** — [https://end2end.space](https://end2end.space)
+  A free pastebin-style service built together with @Jonasschuettler, lightweight, privacy-oriented paste sharing.
 
-Protection bypassing
-
-<h3 align="left">Featured projects</h3>
-
-🔥 FireflyProtector — https://fireflyprotector.xyz  
-  A site focused on CyberSecurity Analysis, Unpackers, Packers, Virtualization protections and multilayer obfuscators.
-
-🧩 CodeConfuser — https://codeconfuser.dev  
-  A JavaScript protection site built around JS-Reactor (a JS protector / virtualization approach). Not updated frequently but contains resources on VM-based protection and compatibility-focused protectors.
-
-✉️ end2end.space — https://end2end.space  
-  A free pastebin-style service built together with @Jonasschuettler, lightweight, privacy-oriented paste sharing.
-
-👥 WallbangBros Community — https://wallbangbros.com
-  Join our underground community for reverse engineering and game hacking, featuring a forum and a Discord server: https://discord.gg/dUCNKkS2Ve
-  
+- **👥 WallbangBros Community** — [https://wallbangbros.com](https://wallbangbros.com)
+  Join our underground community for reverse engineering and game hacking, featuring a forum and a Discord server: [https://discord.gg/dUCNKkS2Ve](https://discord.gg/dUCNKkS2Ve)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="Hutaoshusband Activity Graph" />
