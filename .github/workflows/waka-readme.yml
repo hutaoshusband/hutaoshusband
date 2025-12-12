@@ -23,3 +23,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_user: current
           plugin_wakatime_days: 30
+          committer_message: "Update WakaTime metrics"
