@@ -85,6 +85,11 @@ I build custom protectors inspired by tools such as **Enigma Protector** and **V
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#2](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+2. 💪 Opened PR [#2](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+3. 🚀 Published release [Steam-Cleaner-Community-0.1.7](https://github.com/hutaoshusband/steam-cleaner/releases/tag/steam-cleaner0.1.7) in [hutaoshusband/steam-cleaner](https://github.com/hutaoshusband/steam-cleaner)
+4. ❌ Merged PR [#25](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+5. 💪 Opened PR [#25](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
 <!--END_SECTION:activity-->
 
 ---
