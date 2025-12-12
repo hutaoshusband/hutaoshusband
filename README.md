@@ -97,7 +97,7 @@ I build custom protectors inspired by tools such as **Enigma Protector** and **V
 ### 📊 Coding Metrics
 
 <div align="center">
-  <img src="https://github.com/hutaoshusband/hutaoshusband/blob/update-wakatime-stats/metrics.wakatime.svg" alt="WakaTime Stats" />
+  <img src="https://raw.githubusercontent.com/hutaoshusband/hutaoshusband/refs/heads/main/metrics.wakatime.svg" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
