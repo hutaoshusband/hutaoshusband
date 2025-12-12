@@ -13,19 +13,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.key }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TOTAL: "True"
-          SHOW_MASKED_TIME: "True"
-          SHOW_TIME: "True"
-          THEME: "synthwave"
-          SECTION_NAME: "waka"
-          LANG_COUNT: 10
-          IGNORED_LANGUAGES: "AI vs Human"
+          filename: metrics.wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.key }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_languages_ignored: "AI vs Human"
+          plugin_wakatime_days: 7
