@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs at 12 am UTC every day
-    - cron: '0 0 * * *'
+    # Runs at every hour
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,5 +21,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.key }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_languages_ignored: "AI vs Human"
+          plugin_wakatime_user: current
           plugin_wakatime_days: 7
