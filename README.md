@@ -96,8 +96,9 @@ I build custom protectors inspired by tools such as **Enigma Protector** and **V
 
 ### 📊 Coding Metrics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://github.com/hutaoshusband/hutaoshusband/blob/update-wakatime-stats/metrics.wakatime.svg" alt="WakaTime Stats" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&radius=16&theme=react&area=true&order=5" height="300" alt="Hutaoshusband Activity Graph" />
