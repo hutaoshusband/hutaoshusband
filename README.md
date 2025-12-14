@@ -85,11 +85,11 @@ I build custom protectors inspired by tools such as **Enigma Protector** and **V
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-2. 💪 Opened PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-3. ❌ Merged PR [#2](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
-4. 💪 Opened PR [#2](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
-5. 🚀 Published release [Steam-Cleaner-Community-0.1.7](https://github.com/hutaoshusband/steam-cleaner/releases/tag/steam-cleaner0.1.7) in [hutaoshusband/steam-cleaner](https://github.com/hutaoshusband/steam-cleaner)
+1. 🚀 Published release [Analyzer(new)1.1.0](https://github.com/hutaoshusband/DLL_dynamic_analyser/releases/tag/dll-analyzer1.1) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+2. ❌ Merged PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+3. 💪 Opened PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+4. ❌ Merged PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+5. 💪 Opened PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
 <!--END_SECTION:activity-->
 
 ---
