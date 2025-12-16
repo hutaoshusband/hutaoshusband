@@ -85,11 +85,11 @@ I build custom protectors inspired by tools such as **Enigma Protector** and **V
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Analyzer(new)1.1.0](https://github.com/hutaoshusband/DLL_dynamic_analyser/releases/tag/dll-analyzer1.1) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-2. ❌ Merged PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-3. 💪 Opened PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-4. ❌ Merged PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
-5. 💪 Opened PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+1. ❗ Opened issue [#31](https://github.com/hutaoshusband/DLL_dynamic_analyser/issues/31) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+2. 🚀 Published release [Analyzer(new)1.1.0](https://github.com/hutaoshusband/DLL_dynamic_analyser/releases/tag/dll-analyzer1.1) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+3. ❌ Merged PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+4. 💪 Opened PR [#30](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
+5. ❌ Merged PR [#27](undefined) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
 <!--END_SECTION:activity-->
 
 ---
