@@ -61,9 +61,9 @@ Making binaries as hard to crack as my love for Hu Tao is to explain.
 ### 📈 What I’ve Been Up To
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/hutaoshusband/DLL_dynamic_analyser/issues/31) in `DLL_dynamic_analyser`  
-2. 🚀 Released v1.1.0 of the [DLL Analyzer](https://github.com/hutaoshusband/DLL_dynamic_analyser/releases/tag/dll-analyzer1.1)  
-3. 💪 Contributed PRs and merged fixes in `DLL_dynamic_analyser`  
+1. ❌ Merged PR [#4](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+2. 💪 Opened PR [#4](undefined) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+3. ❗ Opened issue [#31](https://github.com/hutaoshusband/DLL_dynamic_analyser/issues/31) in [hutaoshusband/DLL_dynamic_analyser](https://github.com/hutaoshusband/DLL_dynamic_analyser)
 <!--END_SECTION:activity-->
 
 ---
