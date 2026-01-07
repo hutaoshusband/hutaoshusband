@@ -54,7 +54,7 @@ Making binaries as hard to crack as my love for Hu Tao is to explain.
 | **🔥 FireflyProtector**<br>_Advanced Binary Protection_ | A full suite for packing, virtualizing, and obfuscating native binaries. Built for game devs and security nerds. | [Website](https://fireflyprotector.xyz) |
 | **🧩 CodeConfuser**<br>_JS Protection Engine_ | Protects JavaScript with VM-based obfuscation (inspired by JS-Reactor). Great for web app security. | [Dev Site](https://codeconfuser.dev) |
 | **✉️ end2end.space**<br>_Private Pastebin_ | A minimal, secure paste-sharing service I built with @Jonasschuettler. No logs, no tracking. | [Service](https://end2end.space) |
-| **👥 WallbangBros**<br>_Reverse Engineering Hub_ | My underground community for game hackers, reversers, and protector devs. | [Website](https://wallbangbros.com) • [Discord](https://discord.gg/dUCNKkS2Ve) |
+| **👥 WallbangBros**<br>_Free Hack for CS2_ | My underground community for game hackers, reversers, and protector devs. | [Website](https://wallbangbros.com) • [Discord](https://discord.gg/dUCNKkS2Ve) |
 
 ---
 
