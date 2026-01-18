@@ -36,6 +36,9 @@
 
 <br>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
 </div>
