@@ -37,8 +37,8 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/hutaoshusband/hutaoshusband/pull/4) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
-2. 💪 Opened PR [#4](https://github.com/hutaoshusband/hutaoshusband/pull/4) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+1. 🚀 Published release [Alpha 0.7 MiSide](https://github.com/hutaoshusband/WBB-MiSide-Zero/releases/tag/pre-0.7) in [hutaoshusband/WBB-MiSide-Zero](https://github.com/hutaoshusband/WBB-MiSide-Zero)
+2. 🎉 Merged PR [#1](https://github.com/hutaoshusband/WBB-MiSide-Zero/pull/1) in [hutaoshusband/WBB-MiSide-Zero](https://github.com/hutaoshusband/WBB-MiSide-Zero)
 <!--END_SECTION:activity-->
 
 <div align="center">
