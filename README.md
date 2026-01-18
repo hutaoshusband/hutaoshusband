@@ -37,6 +37,8 @@
 <br>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/hutaoshusband/hutaoshusband/pull/4) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
+2. 💪 Opened PR [#4](https://github.com/hutaoshusband/hutaoshusband/pull/4) in [hutaoshusband/hutaoshusband](https://github.com/hutaoshusband/hutaoshusband)
 <!--END_SECTION:activity-->
 
 <div align="center">
