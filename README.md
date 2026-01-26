@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<h1 align="center">👻 Hu Tao’s Husband (HUTAOSHUSBAND)</h1>
+<h1 align="center">Hu Tao’s Husband (HUTAOSHUSBAND)</h1>
 
 <p align="center">
   I specialize in game hacking, reverse engineering, and developing software protections using Rust, C++, JavaScript and Lua/Luau. My projects focus on virtualization, code mutation, anti-analysis techniques, like: Anti-Debugging, Anti-Virtualization, Anti-Dumping and other protections include creative ones, like password locking, region locking and more, to secure binaries/scripts. <strong>FireflyProtector.xyz</strong>  is my site for various free software protection products. I am currently working on the Protector for x64 dlls and exes, but have already released various obfuscators and protectors for javascript, lua and python. <strong>end2end.space</strong> is one of my site projects, which provides a free and unlimited pastebin alternative and <strong>WallbangBros.com</strong>, which is a private internal cheat and reversing forum for Counter-Strike 2.
