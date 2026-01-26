@@ -27,14 +27,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hutaoshusband/hutaoshusband/refs/heads/main/metrics.wakatime.svg" alt="WakaTime Coding Stats" />
-  <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=hutaoshusband&theme=discord&row=1" height="150" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
   <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
 </div>
