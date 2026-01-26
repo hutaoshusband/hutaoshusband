@@ -19,10 +19,9 @@
 </div>
 
 <h1 align="center">👻 Hu Tao’s Husband (HUTAOSHUSBAND)</h1>
-<h3 align="center">I break things to protect them better.</h3>
 
 <p align="center">
-  I specialize in game hacking, reverse engineering, and developing advanced software protections using Rust and C++. My work focuses on virtualization engines, code mutation, and anti-analysis techniques to secure binaries. I am the creator of <strong>FireflyProtector</strong>, <strong>end2end.space</strong>, and <strong>WallbangBros</strong>.
+  I specialize in game hacking, reverse engineering, and developing software protections using Rust, C++, JavaScript and Lua/Luau. My projects focus on virtualization, code mutation, anti-analysis techniques, like: Anti-Debugging, Anti-Virtualization, Anti-Dumping and other protections include creative ones, like password locking, region locking and more, to secure binaries/scripts. <strong>FireflyProtector.xyz</strong>  is my site for various free software protection products. I am currently working on the Protector for x64 dlls and exes, but have already released various obfuscators and protectors for javascript, lua and python. <strong>end2end.space</strong> is one of my site projects, which provides a free and unlimited pastebin alternative and <strong>WallbangBros.com</strong>, which is a private internal cheat and reversing forum for Counter-Strike 2.
 </p>
 
 <br>
@@ -35,11 +34,6 @@
 </div>
 
 <br>
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Alpha 0.7 MiSide](https://github.com/hutaoshusband/WBB-MiSide-Zero/releases/tag/pre-0.7) in [hutaoshusband/WBB-MiSide-Zero](https://github.com/hutaoshusband/WBB-MiSide-Zero)
-2. 🎉 Merged PR [#1](https://github.com/hutaoshusband/WBB-MiSide-Zero/pull/1) in [hutaoshusband/WBB-MiSide-Zero](https://github.com/hutaoshusband/WBB-MiSide-Zero)
-<!--END_SECTION:activity-->
 
 <div align="center">
   <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
