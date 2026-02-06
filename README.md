@@ -22,17 +22,8 @@
 <h3 align="center">Yes I love Hu Tao</h3>
 
 <p align="center">
-  I specialize in game hacking, reverse engineering, and developing advanced software protections using Rust and C++. My work focuses on virtualization engines, code mutation, and anti-analysis techniques to secure binaries. I am the creator of <strong>FireflyProtector</strong>, <strong>end2end.space</strong>, and <strong>WallbangBros</strong>.
+  I specialize in game hacking, reverse engineering, and developing software protections using Rust, C++, JavaScript and Lua/Luau. My projects focus on virtualization, code mutation, anti-analysis techniques, like: Anti-Debugging, Anti-Virtualization, Anti-Dumping and other protections include creative ones, like password locking, region locking and more, to secure binaries/scripts. <strong>FireflyProtector.xyz</strong>  is my site for various free software protection products. I am currently working on the Protector for x64 dlls and exes, but have already released various obfuscators and protectors for javascript, lua and python. <strong>end2end.space</strong> is one of my site projects, which provides a free and unlimited pastebin alternative and <strong>WallbangBros.com</strong>, which is a private internal cheat and reversing forum for Counter-Strike 2.
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hutaoshusband/hutaoshusband/refs/heads/main/metrics.wakatime.svg" alt="WakaTime Coding Stats" />
-  <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=hutaoshusband&theme=discord&row=1" height="150" alt="GitHub Trophies" />
-</div>
 
 <br>
 
