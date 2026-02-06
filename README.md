@@ -6,27 +6,56 @@
   <img height="150" src="https://64.media.tumblr.com/33310a2ce96273174065a97b482de31e/5055027a25ccf478-00/s500x750/7050e3e2eba2e5604245bc6a403955e037de5d4d.gif" alt="Hu Tao Banner" />
 </div>
 
-<div align="center">
-  <a href="https://discord.gg/dUCNKkS2Ve" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@hutaoshusband" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
-  </a>
-  <a href="https://t.me/hutaos_husband" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram" />
-  </a>
-</div>
-
-<h1 align="center">👻 Hu Tao’s Husband (HUTAOSHUSBAND)</h1>
-<h3 align="center">Yes I love Hu Tao</h3>
-
 <p align="center">
-  I specialize in game hacking, reverse engineering, and developing software protections using Rust, C++, JavaScript and Lua/Luau. My projects focus on virtualization, code mutation, anti-analysis techniques, like: Anti-Debugging, Anti-Virtualization, Anti-Dumping and other protections include creative ones, like password locking, region locking and more, to secure binaries/scripts. <strong>FireflyProtector.xyz</strong>  is my site for various free software protection products. I am currently working on the Protector for x64 dlls and exes, but have already released various obfuscators and protectors for javascript, lua and python. <strong>end2end.space</strong> is one of my site projects, which provides a free and unlimited pastebin alternative and <strong>WallbangBros.com</strong>, which is a private internal cheat and reversing forum for Counter-Strike 2.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Hacking+%26+Reverse+Engineering;Software+Protection+%26+Virtualization;Rust+%7C+C+++%7C+JS+%7C+Lua" alt="Typing SVG" />
 </p>
 
-<br>
+<p align="center">
+  I specialize in game hacking, reverse engineering, and developing robust software protections. My work focuses on virtualization, code mutation, and anti-analysis techniques (Anti-Debugging, Anti-Virtualization, Anti-Dumping) alongside creative security measures like region locking and binary/script encryption.
+</p>
 
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</p>
+
+### 🌐 Projects & Links
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ FireflyProtector</h3>
+      <p align="center">
+        <a href="https://FireflyProtector.xyz">
+          <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site" />
+        </a>
+      </p>
+      <p align="center">
+        <i>A hub for various free software protection products.</i><br><br>
+        Currently developing a Protector for <strong>x64 DLLs and EXEs</strong>. I have also released various obfuscators and protectors for JavaScript, Lua, and Python.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Other Services</h3>
+      <ul align="center">
+        <li>
+          <strong><a href="https://end2end.space">end2end.space</a></strong><br>
+          A free and unlimited Pastebin alternative.
+        </li>
+        <br>
+        <li>
+          <strong><a href="https://WallbangBros.com">WallbangBros.com</a></strong><br>
+          A private internal cheat and reversing forum for Counter-Strike 2.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <div align="center">
   <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
 </div>
