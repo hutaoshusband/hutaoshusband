@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">👻 Hu Tao’s Husband (HUTAOSHUSBAND)</h1>
-<h3 align="center">I break things to protect them better.</h3>
+<h3 align="center">Yes I love Hu Tao</h3>
 
 <p align="center">
   I specialize in game hacking, reverse engineering, and developing advanced software protections using Rust and C++. My work focuses on virtualization engines, code mutation, and anti-analysis techniques to secure binaries. I am the creator of <strong>FireflyProtector</strong>, <strong>end2end.space</strong>, and <strong>WallbangBros</strong>.
