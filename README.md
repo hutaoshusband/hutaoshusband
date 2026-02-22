@@ -4,7 +4,6 @@
 
 <div align="center">
   <img height="150" src="https://64.media.tumblr.com/33310a2ce96273174065a97b482de31e/5055027a25ccf478-00/s500x750/7050e3e2eba2e5604245bc6a403955e037de5d4d.gif" alt="Hu Tao Banner" />
-  <img height="150" src="./hutao.gif" alt="Hu Tao GIF" />
 </div>
 
 <p align="center">
@@ -72,6 +71,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img height="150" src="./hutao.gif" alt="Hu Tao GIF" />
+</div>
+
 <div align="center">
   <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
 </div>
