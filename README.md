@@ -31,7 +31,7 @@
         </a>
       </p>
       <p align="center">
-        A hub for free software protection tools and active development of a protector for x64 DLLs and EXEs.
+        A hub for free software protection tools and active development of a protector for various languages like Lua, Python, JavaScript and more.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
@@ -55,7 +55,7 @@
         </a>
       </p>
       <p align="center">
-        Private internal forum focused on Counter-Strike 2 cheats and reverse engineering.
+        Private underground forum focused on Counter-Strike 2 cheats, reverse engineering, exploits and coding.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
@@ -66,7 +66,7 @@
         </a>
       </p>
       <p align="center">
-        Community invite and direct contact point: <strong>gg/dUCNKkS2Ve</strong>
+        WallbangBros Cheating Community Discord server.<strong>gg/dUCNKkS2Ve</strong>
       </p>
     </td>
   </tr>
