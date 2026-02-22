@@ -73,7 +73,7 @@
 </table>
 
 <div align="center">
-  <img height="150" src="./hutao.gif" alt="Hu Tao GIF" />
+  <img height="340" src="./hutao.gif" alt="Hu Tao GIF" />
 </div>
 
 <div align="center">
