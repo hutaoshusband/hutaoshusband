@@ -76,6 +76,36 @@
   <img height="440" src="./hutao.gif" alt="Hu Tao GIF" />
 </div>
 
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <sub>Tags: HUTAOSHUSBAND, Hu Tao’s Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hutaoshusband&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutaoshusband&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hutaoshusband&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Activity Graph" />
+</div>
+
+---
+
+### ⏱️ WakaTime Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <sub>Tags: HUTAOSHUSBAND, Hu Tao's Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
 </div>
