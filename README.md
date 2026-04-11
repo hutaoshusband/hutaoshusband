@@ -103,13 +103,8 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 03 April 2026 - To: 10 April 2026
+**Last 7 Days** — Total: **0 secs** — Daily Avg: **0 secs**
 
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
