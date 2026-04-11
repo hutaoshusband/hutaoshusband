@@ -31,9 +31,9 @@ jobs:
               exit(1)
 
           encoded_key = base64.b64encode(api_key.encode()).decode()
-          url = 'https://wakatime.com/api/v1/users/current/stats/last_7_days'
+          url = 'https://wakatime.com/api/v1/users/current/summaries?range=last_7_days'
 
-          stats = None
+          body = None
           for attempt in range(4):
               try:
                   req = urllib.request.Request(url, headers={
@@ -42,16 +42,8 @@ jobs:
                   })
                   with urllib.request.urlopen(req, timeout=30) as resp:
                       body = json.loads(resp.read().decode())
-                      stats = body.get('data')
-                      if stats:
+                      if body and 'data' in body:
                           break
-              except urllib.error.HTTPError as e:
-                  print(f'Attempt {attempt+1} failed: HTTP {e.code}')
-                  if e.code == 202:
-                      print('Stats are being calculated, retrying...')
-                  else:
-                      err_body = e.read().decode()
-                      print(f'Error response: {err_body}')
               except Exception as e:
                   print(f'Attempt {attempt+1} failed: {e}')
 
@@ -60,11 +52,56 @@ jobs:
                   print(f'Retrying in {wait}s...')
                   time.sleep(wait)
 
-          if not stats:
+          if not body or 'data' not in body:
               print('ERROR: Could not fetch WakaTime stats after multiple attempts')
               exit(1)
 
-          print('Successfully fetched WakaTime stats')
+          print('Successfully fetched WakaTime summaries')
+
+          # ── aggregate data ────────────────────────────────────────
+
+          total_seconds = sum(d.get('grand_total', {}).get('total_seconds', 0) for d in body['data'])
+
+          def format_time(sec):
+              m, s = divmod(sec, 60)
+              h, m = divmod(m, 60)
+              if h > 0:
+                  return f'{int(h)} hrs {int(m)} mins'
+              return f'{int(m)} mins'
+
+          human_total = format_time(total_seconds)
+          daily_avg_sec = total_seconds / 7.0 if total_seconds > 0 else 0
+          daily_avg = format_time(daily_avg_sec)
+
+          best_day_sec = -1
+          best_day_text = ''
+          for d in body['data']:
+              sec = d.get('grand_total', {}).get('total_seconds', 0)
+              if sec > best_day_sec:
+                  best_day_sec = sec
+                  best_day_date = d.get('range', {}).get('date', '')
+                  if best_day_date and sec > 0:
+                      best_day_text = f'{best_day_date} ({format_time(sec)})'
+
+          def aggregate(key):
+              agg = {}
+              for d in body['data']:
+                  for item in d.get(key, []):
+                      name = item.get('name', 'Unknown')
+                      agg[name] = agg.get(name, 0) + item.get('total_seconds', 0)
+              
+              res = []
+              if total_seconds > 0:
+                  for name, sec in sorted(agg.items(), key=lambda x: x[1], reverse=True):
+                      if sec == 0: continue
+                      pct = (sec / total_seconds) * 100
+                      res.append({'name': name, 'percent': pct, 'text': format_time(sec)})
+              return res
+
+          editors   = aggregate('editors')
+          languages = aggregate('languages')
+          oses      = aggregate('operating_systems')
+          machines  = aggregate('machines')
 
           # ── helpers ──────────────────────────────────────────────
 
@@ -94,32 +131,11 @@ jobs:
 
           # ── build content ────────────────────────────────────────
 
-          human_total = (
-              stats.get('human_readable_total_including_other_language')
-              or stats.get('human_readable_total', '0 mins')
-          )
-          daily_avg = (
-              stats.get('human_readable_daily_average_including_other_language')
-              or stats.get('human_readable_daily_average', '0 mins')
-          )
-          best_day = stats.get('best_day', {})
-          best_day_text = ''
-          if best_day:
-              best_day_date = best_day.get('date', '')
-              best_day_time = best_day.get('text', '')
-              if best_day_date and best_day_time:
-                  best_day_text = f'{best_day_date} ({best_day_time})'
-
           content = ''
           content += f'**Last 7 Days** \u2014 Total: **{human_total}** \u2014 Daily Avg: **{daily_avg}**'
           if best_day_text:
               content += f' \u2014 Most Active: **{best_day_text}**'
           content += '\n\n'
-
-          editors   = stats.get('editors', [])
-          languages = stats.get('languages', [])
-          oses      = stats.get('operating_systems', [])
-          machines  = stats.get('machines', [])
 
           content += make_table('Editors',          '\U0001f5a5\ufe0f', editors,   human_total, 'Editor')
           content += make_table('Languages',        '\U0001f4bb',       languages, human_total, 'Language')
