@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,10 +14,12 @@ jobs:
 
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: ${{ github.repository }}
           SHOW_TITLE: true
-          BLOCKS: ⣷⣯⣟⡿⢿⣻⣽⣾
+          BLOCKS: "⣷⣯⣟⡿⢿⣻⣽⣾"
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SORTED_BY: time
+          LANG_COUNT: 10
