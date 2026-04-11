@@ -1,4 +1,4 @@
-name: WakaTime Readme
+name: WakaTime Stats
 
 on:
   schedule:
@@ -12,14 +12,150 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
-        with:
-          GH_TOKEN: ${{ github.token }}
+      - name: Fetch WakaTime Stats & Update README
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: ${{ github.repository }}
-          SHOW_TITLE: true
-          BLOCKS: "⣷⣯⣟⡿⢿⣻⣽⣾"
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          LANG_COUNT: 10
+        run: |
+          python3 << 'PYTHON_SCRIPT'
+          import base64
+          import json
+          import os
+          import re
+          import urllib.request
+          import urllib.error
+          import time
+
+          api_key = os.environ.get('WAKATIME_API_KEY', '')
+          if not api_key:
+              print('ERROR: WAKATIME_API_KEY env var is missing')
+              exit(1)
+
+          encoded_key = base64.b64encode(api_key.encode()).decode()
+          url = 'https://wakatime.com/api/v1/users/current/stats/last_7_days'
+
+          stats = None
+          for attempt in range(4):
+              try:
+                  req = urllib.request.Request(url, headers={
+                      'Authorization': f'Basic {encoded_key}',
+                      'User-Agent': 'GitHub-Actions-WakaTime-Stats/1.0',
+                  })
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      body = json.loads(resp.read().decode())
+                      stats = body.get('data')
+                      if stats:
+                          break
+              except urllib.error.HTTPError as e:
+                  print(f'Attempt {attempt+1} failed: HTTP {e.code}')
+                  if e.code == 202:
+                      print('Stats are being calculated, retrying...')
+                  else:
+                      err_body = e.read().decode()
+                      print(f'Error response: {err_body}')
+              except Exception as e:
+                  print(f'Attempt {attempt+1} failed: {e}')
+
+              if attempt < 3:
+                  wait = 30 * (attempt + 1)
+                  print(f'Retrying in {wait}s...')
+                  time.sleep(wait)
+
+          if not stats:
+              print('ERROR: Could not fetch WakaTime stats after multiple attempts')
+              exit(1)
+
+          print('Successfully fetched WakaTime stats')
+
+          # ── helpers ──────────────────────────────────────────────
+
+          def make_table(title, emoji, items, total_text, name_label):
+              if not items:
+                  return ''
+
+              lines = []
+              lines.append(f'**{emoji} {title}**')
+              lines.append('')
+              lines.append(f'| {name_label} | Time | Usage |')
+              lines.append(f'|:-----------|:-----|:------|')
+
+              for item in items:
+                  name  = item.get('name', 'Unknown')
+                  tm    = item.get('text', '0 mins')
+                  pct   = item.get('percent', 0)
+                  bar_len = 21
+                  filled  = round(pct / 100 * bar_len)
+                  filled  = max(0, min(bar_len, filled))
+                  bar = '\u2588' * filled + '\u2591' * (bar_len - filled)
+                  lines.append(f'| {name} | `{tm}` | {bar} {pct:.2f}% |')
+
+              lines.append(f'| **Total** | **{total_text}** | |')
+              lines.append('')
+              return '\n'.join(lines)
+
+          # ── build content ────────────────────────────────────────
+
+          human_total = (
+              stats.get('human_readable_total_including_other_language')
+              or stats.get('human_readable_total', '0 mins')
+          )
+          daily_avg = (
+              stats.get('human_readable_daily_average_including_other_language')
+              or stats.get('human_readable_daily_average', '0 mins')
+          )
+          best_day = stats.get('best_day', {})
+          best_day_text = ''
+          if best_day:
+              best_day_date = best_day.get('date', '')
+              best_day_time = best_day.get('text', '')
+              if best_day_date and best_day_time:
+                  best_day_text = f'{best_day_date} ({best_day_time})'
+
+          content = ''
+          content += f'**Last 7 Days** \u2014 Total: **{human_total}** \u2014 Daily Avg: **{daily_avg}**'
+          if best_day_text:
+              content += f' \u2014 Most Active: **{best_day_text}**'
+          content += '\n\n'
+
+          editors   = stats.get('editors', [])
+          languages = stats.get('languages', [])
+          oses      = stats.get('operating_systems', [])
+          machines  = stats.get('machines', [])
+
+          content += make_table('Editors',          '\U0001f5a5\ufe0f', editors,   human_total, 'Editor')
+          content += make_table('Languages',        '\U0001f4bb',       languages, human_total, 'Language')
+          content += make_table('Operating Systems', '\U0001f4be',      oses,      human_total, 'OS')
+          content += make_table('Machines',         '\U0001f527',       machines,  human_total, 'Machine')
+
+          # ── update README ────────────────────────────────────────
+
+          readme_path = 'README.md'
+          with open(readme_path, 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          pattern = r'(<!--START_SECTION:waka-->)[\s\S]*?(<!--END_SECTION:waka-->)'
+          if not re.search(pattern, readme):
+              print('ERROR: Could not find <!--START_SECTION:waka--> ... <!--END_SECTION:waka--> in README')
+              exit(1)
+
+          replacement = f'<!--START_SECTION:waka-->\n\n{content}\n<!--END_SECTION:waka-->'
+          new_readme = re.sub(pattern, replacement, readme)
+
+          if new_readme == readme:
+              print('README unchanged, nothing to commit')
+              exit(0)
+
+          with open(readme_path, 'w', encoding='utf-8') as f:
+              f.write(new_readme)
+
+          print('README updated with new WakaTime stats')
+
+          PYTHON_SCRIPT
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update WakaTime stats"
+          git push
