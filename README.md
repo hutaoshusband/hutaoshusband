@@ -103,42 +103,43 @@
 
 <!--START_SECTION:waka-->
 
-**Last 7 Days** — Total: **1 hrs 26 mins** — Daily Avg: **12 mins** — Most Active: **2026-04-11 (1 hrs 26 mins)**
+**Last 7 Days** — Total: **3 hrs 3 mins** — Daily Avg: **26 mins** — Most Active: **2026-04-11 (2 hrs 14 mins)**
 
 **🖥️ Editors**
 
 | Editor | Time | Usage |
 |:-----------|:-----|:------|
-| Zed | `41 mins` | ██████████░░░░░░░░░░░ 48.42% |
-| Antigravity | `34 mins` | ████████░░░░░░░░░░░░░ 39.90% |
-| Visual Studio | `10 mins` | ██░░░░░░░░░░░░░░░░░░░ 11.68% |
-| **Total** | **1 hrs 26 mins** | |
+| Antigravity | `1 hrs 31 mins` | ██████████░░░░░░░░░░░ 49.86% |
+| Zed | `1 hrs 21 mins` | █████████░░░░░░░░░░░░ 44.62% |
+| Visual Studio | `10 mins` | █░░░░░░░░░░░░░░░░░░░░ 5.52% |
+| **Total** | **3 hrs 3 mins** | |
 **💻 Languages**
 
 | Language | Time | Usage |
 |:-----------|:-----|:------|
-| C++ | `35 mins` | █████████░░░░░░░░░░░░ 40.63% |
-| Markdown | `26 mins` | ██████░░░░░░░░░░░░░░░ 30.07% |
-| Other | `15 mins` | ████░░░░░░░░░░░░░░░░░ 17.37% |
-| Text | `5 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.49% |
-| YAML | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.98% |
-| PHP | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.44% |
-| C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.02% |
-| Objective-C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.97% |
-| INI | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.04% |
-| **Total** | **1 hrs 26 mins** | |
+| Other | `1 hrs 49 mins` | ████████████░░░░░░░░░ 59.46% |
+| C++ | `35 mins` | ████░░░░░░░░░░░░░░░░░ 19.19% |
+| Markdown | `26 mins` | ███░░░░░░░░░░░░░░░░░░ 14.20% |
+| Text | `5 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.07% |
+| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.24% |
+| YAML | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.94% |
+| Batchfile | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.73% |
+| PHP | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.68% |
+| C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.48% |
+| INI | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.02% |
+| **Total** | **3 hrs 3 mins** | |
 **💾 Operating Systems**
 
 | OS | Time | Usage |
 |:-----------|:-----|:------|
-| Windows | `1 hrs 26 mins` | █████████████████████ 100.00% |
-| **Total** | **1 hrs 26 mins** | |
+| Windows | `3 hrs 3 mins` | █████████████████████ 100.00% |
+| **Total** | **3 hrs 3 mins** | |
 **🔧 Machines**
 
 | Machine | Time | Usage |
 |:-----------|:-----|:------|
-| hutaoshusband | `1 hrs 26 mins` | █████████████████████ 100.00% |
-| **Total** | **1 hrs 26 mins** | |
+| hutaoshusband | `3 hrs 3 mins` | █████████████████████ 100.00% |
+| **Total** | **3 hrs 3 mins** | |
 
 <!--END_SECTION:waka-->
 
