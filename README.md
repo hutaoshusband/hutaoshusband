@@ -103,53 +103,54 @@
 
 <!--START_SECTION:waka-->
 
-**Last 7 Days** — Total: **16 hrs 28 mins** — Daily Avg: **2 hrs 21 mins** — Most Active: **2026-04-13 (7 hrs 37 mins)**
+**Last 7 Days** — Total: **17 hrs 0 mins** — Daily Avg: **2 hrs 25 mins** — Most Active: **2026-04-13 (7 hrs 37 mins)**
 
 **🖥️ Editors**
 
 | Editor | Time | Usage |
 |:-----------|:-----|:------|
-| Antigravity | `10 hrs 39 mins` | ██████████████░░░░░░░ 64.74% |
-| Zed | `4 hrs 7 mins` | █████░░░░░░░░░░░░░░░░ 25.02% |
-| Codex | `49 mins` | █░░░░░░░░░░░░░░░░░░░░ 4.98% |
-| Unknown Editor | `41 mins` | █░░░░░░░░░░░░░░░░░░░░ 4.17% |
-| Visual Studio | `10 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.08% |
-| **Total** | **16 hrs 28 mins** | |
+| Antigravity | `10 hrs 39 mins` | █████████████░░░░░░░░ 62.73% |
+| Zed | `4 hrs 29 mins` | ██████░░░░░░░░░░░░░░░ 26.45% |
+| Codex | `49 mins` | █░░░░░░░░░░░░░░░░░░░░ 4.83% |
+| Unknown Editor | `41 mins` | █░░░░░░░░░░░░░░░░░░░░ 4.04% |
+| Visual Studio | `10 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.05% |
+| VS Code | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.90% |
+| **Total** | **17 hrs 0 mins** | |
 **💻 Languages**
 
 | Language | Time | Usage |
 |:-----------|:-----|:------|
-| Other | `10 hrs 19 mins` | █████████████░░░░░░░░ 62.72% |
-| Kotlin | `2 hrs 24 mins` | ███░░░░░░░░░░░░░░░░░░ 14.58% |
-| C++ | `2 hrs 23 mins` | ███░░░░░░░░░░░░░░░░░░ 14.54% |
-| Markdown | `27 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.74% |
-| Bash | `14 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.46% |
-| CMake | `12 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.23% |
-| Java Properties | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.63% |
-| Text | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.57% |
-| XML | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.45% |
-| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.27% |
-| PowerShell | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.26% |
+| Other | `10 hrs 21 mins` | █████████████░░░░░░░░ 60.88% |
+| Kotlin | `2 hrs 46 mins` | ███░░░░░░░░░░░░░░░░░░ 16.34% |
+| C++ | `2 hrs 30 mins` | ███░░░░░░░░░░░░░░░░░░ 14.73% |
+| Markdown | `27 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.66% |
+| Bash | `15 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.57% |
+| CMake | `12 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.19% |
+| Java Properties | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.61% |
+| Text | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.55% |
+| XML | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.43% |
+| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.26% |
+| PowerShell | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.25% |
 | YAML | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.17% |
-| Batchfile | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
-| PHP | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.13% |
-| C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.10% |
+| Batchfile | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.13% |
+| PHP | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
+| C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
 | INI | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| **Total** | **16 hrs 28 mins** | |
+| **Total** | **17 hrs 0 mins** | |
 **💾 Operating Systems**
 
 | OS | Time | Usage |
 |:-----------|:-----|:------|
-| Windows | `16 hrs 4 mins` | ████████████████████░ 97.59% |
-| Mac | `23 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.41% |
-| **Total** | **16 hrs 28 mins** | |
+| Windows | `16 hrs 36 mins` | █████████████████████ 97.67% |
+| Mac | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.33% |
+| **Total** | **17 hrs 0 mins** | |
 **🔧 Machines**
 
 | Machine | Time | Usage |
 |:-----------|:-----|:------|
-| hutaoshusband | `16 hrs 4 mins` | ████████████████████░ 97.59% |
-| MacBook-Pro-von-Jonathan.local | `23 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.41% |
-| **Total** | **16 hrs 28 mins** | |
+| hutaoshusband | `16 hrs 36 mins` | █████████████████████ 97.67% |
+| MacBook-Pro-von-Jonathan.local | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.33% |
+| **Total** | **17 hrs 0 mins** | |
 
 <!--END_SECTION:waka-->
 
