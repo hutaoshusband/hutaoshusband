@@ -98,7 +98,6 @@ jobs:
                       res.append({'name': name, 'percent': pct, 'text': format_time(sec)})
               return res
 
-          editors   = aggregate('editors')
           languages = aggregate('languages')
           oses      = aggregate('operating_systems')
           machines  = aggregate('machines')
@@ -137,7 +136,6 @@ jobs:
               content += f' \u2014 Most Active: **{best_day_text}**'
           content += '\n\n'
 
-          content += make_table('Editors',          '\U0001f5a5\ufe0f', editors,   human_total, 'Editor')
           content += make_table('Languages',        '\U0001f4bb',       languages, human_total, 'Language')
           content += make_table('Operating Systems', '\U0001f4be',      oses,      human_total, 'OS')
           content += make_table('Machines',         '\U0001f527',       machines,  human_total, 'Machine')
