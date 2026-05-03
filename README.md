@@ -103,41 +103,42 @@
 
 <!--START_SECTION:waka-->
 
-**Last 7 Days** — Total: **35 hrs 31 mins** — Daily Avg: **5 hrs 4 mins** — Most Active: **2026-04-26 (11 hrs 36 mins)**
+**Last 7 Days** — Total: **27 hrs 36 mins** — Daily Avg: **3 hrs 56 mins** — Most Active: **2026-04-28 (7 hrs 12 mins)**
 
 **💻 Languages**
 
 | Language | Time | Usage |
 |:-----------|:-----|:------|
-| C++ | `10 hrs 27 mins` | ██████░░░░░░░░░░░░░░░ 29.45% |
-| Other | `8 hrs 26 mins` | █████░░░░░░░░░░░░░░░░ 23.74% |
-| Assembly | `5 hrs 3 mins` | ███░░░░░░░░░░░░░░░░░░ 14.23% |
-| Markdown | `4 hrs 15 mins` | ███░░░░░░░░░░░░░░░░░░ 12.01% |
-| C | `4 hrs 8 mins` | ██░░░░░░░░░░░░░░░░░░░ 11.64% |
-| PowerShell | `2 hrs 34 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.23% |
-| Python | `15 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.74% |
-| RGBDS Assembly | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.45% |
-| XML | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.28% |
-| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
-| JSON | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.07% |
+| Other | `8 hrs 0 mins` | ██████░░░░░░░░░░░░░░░ 29.00% |
+| C++ | `7 hrs 9 mins` | █████░░░░░░░░░░░░░░░░ 25.96% |
+| C | `3 hrs 48 mins` | ███░░░░░░░░░░░░░░░░░░ 13.78% |
+| Markdown | `3 hrs 29 mins` | ███░░░░░░░░░░░░░░░░░░ 12.66% |
+| Assembly | `2 hrs 34 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.34% |
+| PowerShell | `55 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.33% |
+| JavaScript | `53 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.22% |
+| Python | `27 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.64% |
+| RGBDS Assembly | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.57% |
+| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
+| JSON | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
+| XML | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
+| Text | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.03% |
 | C# | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.02% |
 | Singularity | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| YAML | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
 | Batchfile | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
 | Rust | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| **Total** | **35 hrs 31 mins** | |
+| **Total** | **27 hrs 36 mins** | |
 **💾 Operating Systems**
 
 | OS | Time | Usage |
 |:-----------|:-----|:------|
-| Windows | `35 hrs 31 mins` | █████████████████████ 100.00% |
-| **Total** | **35 hrs 31 mins** | |
+| Windows | `27 hrs 36 mins` | █████████████████████ 100.00% |
+| **Total** | **27 hrs 36 mins** | |
 **🔧 Machines**
 
 | Machine | Time | Usage |
 |:-----------|:-----|:------|
-| hutaoshusband | `35 hrs 31 mins` | █████████████████████ 100.00% |
-| **Total** | **35 hrs 31 mins** | |
+| hutaoshusband | `27 hrs 36 mins` | █████████████████████ 100.00% |
+| **Total** | **27 hrs 36 mins** | |
 
 <!--END_SECTION:waka-->
 
