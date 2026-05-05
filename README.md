@@ -103,49 +103,46 @@
 
 <!--START_SECTION:waka-->
 
-**Last 7 Days** — Total: **40 hrs 39 mins** — Daily Avg: **5 hrs 48 mins** — Most Active: **2026-05-04 (9 hrs 50 mins)**
+**Last 7 Days** — Total: **33 hrs 37 mins** — Daily Avg: **4 hrs 48 mins** — Most Active: **2026-05-04 (9 hrs 59 mins)**
 
 **💻 Languages**
 
 | Language | Time | Usage |
 |:-----------|:-----|:------|
-| Other | `11 hrs 7 mins` | ██████░░░░░░░░░░░░░░░ 27.38% |
-| C++ | `7 hrs 41 mins` | ████░░░░░░░░░░░░░░░░░ 18.91% |
-| Lua | `6 hrs 7 mins` | ███░░░░░░░░░░░░░░░░░░ 15.04% |
-| Markdown | `5 hrs 18 mins` | ███░░░░░░░░░░░░░░░░░░ 13.06% |
-| C | `3 hrs 59 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.82% |
-| Assembly | `2 hrs 33 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.28% |
-| PowerShell | `1 hrs 16 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.14% |
-| JavaScript | `56 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.33% |
-| JSON | `41 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.69% |
-| Python | `19 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.80% |
-| RGBDS Assembly | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
-| HTML | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.38% |
-| Git Config | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.31% |
-| TypeScript | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
-| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
-| XML | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
-| Text | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.05% |
-| C# | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.02% |
+| Other | `9 hrs 59 mins` | ██████░░░░░░░░░░░░░░░ 29.70% |
+| C++ | `6 hrs 12 mins` | ████░░░░░░░░░░░░░░░░░ 18.48% |
+| Lua | `6 hrs 10 mins` | ████░░░░░░░░░░░░░░░░░ 18.34% |
+| Markdown | `3 hrs 50 mins` | ██░░░░░░░░░░░░░░░░░░░ 11.43% |
+| C | `2 hrs 19 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.91% |
+| Assembly | `1 hrs 27 mins` | █░░░░░░░░░░░░░░░░░░░░ 4.31% |
+| PowerShell | `1 hrs 4 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.21% |
+| JavaScript | `56 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.82% |
+| JSON | `40 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.02% |
+| Python | `19 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.96% |
+| RGBDS Assembly | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.47% |
+| HTML | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.46% |
+| Git Config | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.38% |
+| TypeScript | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.21% |
+| Objective-C | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.15% |
+| XML | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.07% |
+| Text | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.06% |
 | CSS | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
-| Singularity | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| Batchfile | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
 | Rust | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| **Total** | **40 hrs 39 mins** | |
+| **Total** | **33 hrs 37 mins** | |
 **💾 Operating Systems**
 
 | OS | Time | Usage |
 |:-----------|:-----|:------|
-| Windows | `34 hrs 18 mins` | ██████████████████░░░ 84.37% |
-| Mac | `6 hrs 21 mins` | ███░░░░░░░░░░░░░░░░░░ 15.63% |
-| **Total** | **40 hrs 39 mins** | |
+| Windows | `27 hrs 16 mins` | █████████████████░░░░ 81.10% |
+| Mac | `6 hrs 21 mins` | ████░░░░░░░░░░░░░░░░░ 18.90% |
+| **Total** | **33 hrs 37 mins** | |
 **🔧 Machines**
 
 | Machine | Time | Usage |
 |:-----------|:-----|:------|
-| hutaoshusband | `34 hrs 18 mins` | ██████████████████░░░ 84.37% |
-| MacBook-Pro-von-Jonathan.local | `6 hrs 21 mins` | ███░░░░░░░░░░░░░░░░░░ 15.63% |
-| **Total** | **40 hrs 39 mins** | |
+| hutaoshusband | `27 hrs 16 mins` | █████████████████░░░░ 81.10% |
+| MacBook-Pro-von-Jonathan.local | `6 hrs 21 mins` | ████░░░░░░░░░░░░░░░░░ 18.90% |
+| **Total** | **33 hrs 37 mins** | |
 
 <!--END_SECTION:waka-->
 
