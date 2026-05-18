@@ -103,47 +103,45 @@
 
 <!--START_SECTION:waka-->
 
-**Last 7 Days** — Total: **37 hrs 19 mins** — Daily Avg: **5 hrs 19 mins** — Most Active: **2026-05-13 (10 hrs 40 mins)**
+**Last 7 Days** — Total: **36 hrs 17 mins** — Daily Avg: **5 hrs 11 mins** — Most Active: **2026-05-13 (10 hrs 40 mins)**
 
 **💻 Languages**
 
 | Language | Time | Usage |
 |:-----------|:-----|:------|
-| Rust | `12 hrs 22 mins` | ███████░░░░░░░░░░░░░░ 33.17% |
-| JavaScript | `6 hrs 30 mins` | ████░░░░░░░░░░░░░░░░░ 17.44% |
-| Other | `6 hrs 0 mins` | ███░░░░░░░░░░░░░░░░░░ 16.11% |
-| Markdown | `5 hrs 40 mins` | ███░░░░░░░░░░░░░░░░░░ 15.22% |
-| PHP | `3 hrs 40 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.84% |
-| Smali | `35 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.57% |
-| CSS | `34 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.54% |
-| Text | `25 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.15% |
-| JSON | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.07% |
-| TOML | `14 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.66% |
-| Apache Config | `12 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.58% |
-| HTML | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.40% |
-| Bash | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.38% |
-| PowerShell | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.34% |
-| Git Config | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.23% |
-| Blade Template | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.21% |
-| SQL | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.05% |
+| Rust | `12 hrs 14 mins` | ███████░░░░░░░░░░░░░░ 33.74% |
+| JavaScript | `7 hrs 11 mins` | ████░░░░░░░░░░░░░░░░░ 19.82% |
+| Markdown | `5 hrs 58 mins` | ███░░░░░░░░░░░░░░░░░░ 16.48% |
+| Other | `5 hrs 46 mins` | ███░░░░░░░░░░░░░░░░░░ 15.92% |
+| PHP | `2 hrs 49 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.78% |
+| Smali | `35 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.62% |
+| Text | `29 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.37% |
+| CSS | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.09% |
+| TOML | `14 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.68% |
+| Apache Config | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.44% |
+| Bash | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
+| HTML | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.23% |
+| JSON | `3 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
+| Git Config | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
+| INI | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
 | C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.04% |
 | Python | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| **Total** | **37 hrs 19 mins** | |
+| **Total** | **36 hrs 17 mins** | |
 **💾 Operating Systems**
 
 | OS | Time | Usage |
 |:-----------|:-----|:------|
-| Windows | `25 hrs 17 mins` | ██████████████░░░░░░░ 67.76% |
-| Mac | `12 hrs 2 mins` | ███████░░░░░░░░░░░░░░ 32.24% |
-| **Total** | **37 hrs 19 mins** | |
+| Windows | `26 hrs 43 mins` | ███████████████░░░░░░ 73.67% |
+| Mac | `9 hrs 33 mins` | ██████░░░░░░░░░░░░░░░ 26.33% |
+| **Total** | **36 hrs 17 mins** | |
 **🔧 Machines**
 
 | Machine | Time | Usage |
 |:-----------|:-----|:------|
-| hutaoshusband | `25 hrs 17 mins` | ██████████████░░░░░░░ 67.76% |
-| MacBook-Pro-von-Jonathan.local | `11 hrs 48 mins` | ███████░░░░░░░░░░░░░░ 31.64% |
-| MBPvonJonathan.fritz.box | `13 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.60% |
-| **Total** | **37 hrs 19 mins** | |
+| hutaoshusband | `26 hrs 43 mins` | ███████████████░░░░░░ 73.67% |
+| MacBook-Pro-von-Jonathan.local | `9 hrs 19 mins` | █████░░░░░░░░░░░░░░░░ 25.71% |
+| MBPvonJonathan.fritz.box | `13 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.62% |
+| **Total** | **36 hrs 17 mins** | |
 
 <!--END_SECTION:waka-->
 
