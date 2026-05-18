@@ -1,152 +1,131 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband" alt="visitor count" />
 </div>
 
 <div align="center">
-  <img height="150" src="https://64.media.tumblr.com/33310a2ce96273174065a97b482de31e/5055027a25ccf478-00/s500x750/7050e3e2eba2e5604245bc6a403955e037de5d4d.gif" alt="Hu Tao Banner" />
+  <img height="150" src="https://64.media.tumblr.com/33310a2ce96273174065a97b482de31e/5055027a25ccf478-00/s500x750/7050e3e2eba2e5604245bc6a403955e037de5d4d.gif" alt="hu tao banner" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Hacking+%26+Reverse+Engineering;Software+Protection+%26+Virtualization;Rust+%7C+C+++%7C+JS+%7C+Lua" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=game+hacking+%26+reverse+engineering;software+protection+%26+virtualization;rust+%7C+c%2B%2B+%7C+js+%7C+lua" alt="typing svg" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
 </p>
 
-### 🌐 Projects & Links
+### 🌐 projects & links
 
 <table align="center">
   <tr>
     <td width="50%" valign="top" height="220">
-      <h3 align="center">🛡️ FireflyProtector</h3>
+      <h3 align="center">🛡️ fireflyprotector</h3>
       <p align="center">
         <a href="https://FireflyProtector.xyz">
-          <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site" />
+          <img src="https://img.shields.io/badge/website-visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="site" />
         </a>
       </p>
       <p align="center">
-        A hub for free software protection tools and active development of a protector for various languages like Lua, Python, JavaScript and more.
+        software protection and virtualization research. active development of custom obfuscators and runtimes for lua, python, and javascript to mitigate static analysis and reverse engineering.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
       <h3 align="center">📝 end2end.space</h3>
       <p align="center">
         <a href="https://end2end.space">
-          <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="end2end.space" />
+          <img src="https://img.shields.io/badge/website-visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="end2end.space" />
         </a>
       </p>
       <p align="center">
-        Free and unlimited Pastebin-style sharing for quick text and code snippets.
+        ephemeral, pastebin-style text and code snippet distribution platform.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" height="220">
-      <h3 align="center">🎯 WallbangBros</h3>
+      <h3 align="center">🎯 wallbangbros</h3>
       <p align="center">
         <a href="https://WallbangBros.com">
-          <img src="https://img.shields.io/badge/Website-Visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WallbangBros" />
+          <img src="https://img.shields.io/badge/website-visit-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="wallbangbros" />
         </a>
       </p>
       <p align="center">
-        Private underground forum focused on Counter-Strike 2 cheats, reverse engineering, exploits and coding.
+        private community centered around counter-strike 2 game hacking, reverse engineering, exploit development, and low-level programming.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
-      <h3 align="center">💬 Discord</h3>
+      <h3 align="center">💬 discord</h3>
       <p align="center">
         <a href="https://discord.gg/dUCNKkS2Ve">
-          <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+          <img src="https://img.shields.io/badge/discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
         </a>
       </p>
       <p align="center">
-        WallbangBros Cheating Community Discord server.<strong>gg/dUCNKkS2Ve</strong>
+        discord server: <strong>gg/dUCNKkS2Ve</strong>
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img height="440" src="./hutao.gif" alt="Hu Tao GIF" />
+  <img height="440" src="./hutao.gif" alt="hu tao gif" />
 </div>
 
----
-
-### 📊 GitHub Stats
+### 📊 github profile trophies
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hutaoshusband&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutaoshusband&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hutaoshusband&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="trophies" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hutaoshusband&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
+### ⏱️ wakatime coding activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hutaoshusband&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
-</div>
+<!--start_section:waka-->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutaoshusband&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Activity Graph" />
-</div>
+**last 7 days** | total: **36 hrs 17 mins** | daily avg: **5 hrs 11 mins** | most active: **2026-05-13 (10 hrs 40 mins)**
 
----
+**💻 languages**
 
-### ⏱️ WakaTime Coding Activity
-
-<!--START_SECTION:waka-->
-
-**Last 7 Days** — Total: **36 hrs 17 mins** — Daily Avg: **5 hrs 11 mins** — Most Active: **2026-05-13 (10 hrs 40 mins)**
-
-**💻 Languages**
-
-| Language | Time | Usage |
+| language | time | usage |
 |:-----------|:-----|:------|
-| Rust | `12 hrs 14 mins` | ███████░░░░░░░░░░░░░░ 33.74% |
-| JavaScript | `7 hrs 11 mins` | ████░░░░░░░░░░░░░░░░░ 19.82% |
-| Markdown | `5 hrs 58 mins` | ███░░░░░░░░░░░░░░░░░░ 16.48% |
-| Other | `5 hrs 46 mins` | ███░░░░░░░░░░░░░░░░░░ 15.92% |
-| PHP | `2 hrs 49 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.78% |
-| Smali | `35 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.62% |
-| Text | `29 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.37% |
-| CSS | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.09% |
-| TOML | `14 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.68% |
-| Apache Config | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.44% |
-| Bash | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
-| HTML | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.23% |
-| JSON | `3 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
-| Git Config | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
-| INI | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
-| C | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.04% |
-| Python | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
-| **Total** | **36 hrs 17 mins** | |
-**💾 Operating Systems**
+| rust | `12 hrs 14 mins` | ███████░░░░░░░░░░░░░░ 33.74% |
+| javascript | `7 hrs 11 mins` | ████░░░░░░░░░░░░░░░░░ 19.82% |
+| markdown | `5 hrs 58 mins` | ███░░░░░░░░░░░░░░░░░░ 16.48% |
+| other | `5 hrs 46 mins` | ███░░░░░░░░░░░░░░░░░░ 15.92% |
+| php | `2 hrs 49 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.78% |
+| smali | `35 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.62% |
+| text | `29 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.37% |
+| css | `23 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.09% |
+| toml | `14 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.68% |
+| apache config | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.44% |
+| bash | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
+| html | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.23% |
+| json | `3 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
+| git config | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
+| ini | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
+| c | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.04% |
+| python | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.00% |
+| **total** | **36 hrs 17 mins** | |
 
-| OS | Time | Usage |
+**💾 operating systems**
+
+| os | time | usage |
 |:-----------|:-----|:------|
-| Windows | `26 hrs 43 mins` | ███████████████░░░░░░ 73.67% |
-| Mac | `9 hrs 33 mins` | ██████░░░░░░░░░░░░░░░ 26.33% |
-| **Total** | **36 hrs 17 mins** | |
-**🔧 Machines**
+| windows | `26 hrs 43 mins` | ███████████████░░░░░░ 73.67% |
+| mac | `9 hrs 33 mins` | ██████░░░░░░░░░░░░░░░ 26.33% |
+| **total** | **36 hrs 17 mins** | |
 
-| Machine | Time | Usage |
-|:-----------|:-----|:------|
-| hutaoshusband | `26 hrs 43 mins` | ███████████████░░░░░░ 73.67% |
-| MacBook-Pro-von-Jonathan.local | `9 hrs 19 mins` | █████░░░░░░░░░░░░░░░░ 25.71% |
-| MBPvonJonathan.fritz.box | `13 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.62% |
-| **Total** | **36 hrs 17 mins** | |
-
-<!--END_SECTION:waka-->
-
----
+<!--end_section:waka-->
 
 <div align="center">
-  <sub>Tags: HUTAOSHUSBAND, Hu Tao's Husband, game hacking, reverse engineering, binary protection, obfuscation, Rust security, FireflyProtector</sub>
+  <sub>tags: hutaoshusband, hu tao's husband, game hacking, reverse engineering, binary protection, obfuscation, rust security, fireflyprotector</sub>
 </div>
+
+### clarification & info
+1. i am not luis
+2. yes, i am active in the reverse engineering and cheating community
+3. i am active in the obfuscation and virtualization community with all the providers i have listed above, and i am active in other programming communities, and software engineering communities
+4. i do not have an instagram account
+5. all other "hutaoshusband"s are not me. i am not affiliated

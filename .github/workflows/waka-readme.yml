@@ -100,7 +100,7 @@ jobs:
 
           languages = aggregate('languages')
           oses      = aggregate('operating_systems')
-          machines  = aggregate('machines')
+          projects  = aggregate('projects')
 
           # ── helpers ──────────────────────────────────────────────
 
@@ -111,11 +111,11 @@ jobs:
               lines = []
               lines.append(f'**{emoji} {title}**')
               lines.append('')
-              lines.append(f'| {name_label} | Time | Usage |')
+              lines.append(f'| {name_label} | time | usage |')
               lines.append(f'|:-----------|:-----|:------|')
 
               for item in items:
-                  name  = item.get('name', 'Unknown')
+                  name  = item.get('name', 'unknown').lower()
                   tm    = item.get('text', '0 mins')
                   pct   = item.get('percent', 0)
                   bar_len = 21
@@ -124,21 +124,21 @@ jobs:
                   bar = '\u2588' * filled + '\u2591' * (bar_len - filled)
                   lines.append(f'| {name} | `{tm}` | {bar} {pct:.2f}% |')
 
-              lines.append(f'| **Total** | **{total_text}** | |')
+              lines.append(f'| **total** | **{total_text}** | |')
               lines.append('')
               return '\n'.join(lines)
 
           # ── build content ────────────────────────────────────────
 
           content = ''
-          content += f'**Last 7 Days** \u2014 Total: **{human_total}** \u2014 Daily Avg: **{daily_avg}**'
+          content += f'**last 7 days** | total: **{human_total}** | daily avg: **{daily_avg}**'
           if best_day_text:
-              content += f' \u2014 Most Active: **{best_day_text}**'
+              content += f' | most active: **{best_day_text}**'
           content += '\n\n'
 
-          content += make_table('Languages',        '\U0001f4bb',       languages, human_total, 'Language')
-          content += make_table('Operating Systems', '\U0001f4be',      oses,      human_total, 'OS')
-          content += make_table('Machines',         '\U0001f527',       machines,  human_total, 'Machine')
+          content += make_table('languages',        '\U0001f4bb',       languages, human_total, 'language')
+          content += make_table('operating systems', '\U0001f4be',      oses,      human_total, 'os')
+          content += make_table('projects',         '\U0001f4c1',       projects,  human_total, 'project')
 
           # ── update README ────────────────────────────────────────
 
@@ -146,12 +146,12 @@ jobs:
           with open(readme_path, 'r', encoding='utf-8') as f:
               readme = f.read()
 
-          pattern = r'(<!--START_SECTION:waka-->)[\s\S]*?(<!--END_SECTION:waka-->)'
+          pattern = r'(<!--start_section:waka-->)[\s\S]*?(<!--end_section:waka-->)'
           if not re.search(pattern, readme):
-              print('ERROR: Could not find <!--START_SECTION:waka--> ... <!--END_SECTION:waka--> in README')
+              print('ERROR: Could not find <!--start_section:waka--> ... <!--end_section:waka--> in README')
               exit(1)
 
-          replacement = f'<!--START_SECTION:waka-->\n\n{content}\n<!--END_SECTION:waka-->'
+          replacement = f'<!--start_section:waka-->\n\n{content}\n<!--end_section:waka-->'
           new_readme = re.sub(pattern, replacement, readme)
 
           if new_readme == readme:
