@@ -84,46 +84,46 @@
 
 <!--start_section:waka-->
 
-**last 7 days** | total: **23 hrs 26 mins** | daily avg: **3 hrs 20 mins** | most active: **2026-05-17 (5 hrs 52 mins)**
+**last 7 days** | total: **19 hrs 20 mins** | daily avg: **2 hrs 45 mins** | most active: **2026-05-17 (5 hrs 52 mins)**
 
 **💻 languages**
 
 | language | time | usage |
 |:-----------|:-----|:------|
-| rust | `9 hrs 53 mins` | █████████░░░░░░░░░░░░ 42.19% |
-| javascript | `6 hrs 6 mins` | █████░░░░░░░░░░░░░░░░ 26.04% |
-| markdown | `5 hrs 49 mins` | █████░░░░░░░░░░░░░░░░ 24.84% |
-| smali | `35 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.50% |
-| git config | `16 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.15% |
-| other | `16 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.15% |
-| text | `12 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.90% |
-| json | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.45% |
-| html | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.45% |
-| ini | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
-| yaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
-| c | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.06% |
+| rust | `7 hrs 41 mins` | ████████░░░░░░░░░░░░░ 39.81% |
+| javascript | `5 hrs 6 mins` | ██████░░░░░░░░░░░░░░░ 26.44% |
+| markdown | `4 hrs 54 mins` | █████░░░░░░░░░░░░░░░░ 25.37% |
+| smali | `35 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.03% |
+| git config | `16 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.39% |
+| other | `16 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.39% |
+| text | `12 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.09% |
+| json | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.55% |
+| html | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.54% |
+| ini | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.17% |
+| yaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
+| c | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.07% |
 | python | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
-| **total** | **23 hrs 26 mins** | |
+| **total** | **19 hrs 20 mins** | |
 **💾 operating systems**
 
 | os | time | usage |
 |:-----------|:-----|:------|
-| windows | `20 hrs 9 mins` | ██████████████████░░░ 86.02% |
-| mac | `3 hrs 16 mins` | ███░░░░░░░░░░░░░░░░░░ 13.98% |
-| **total** | **23 hrs 26 mins** | |
+| windows | `15 hrs 32 mins` | █████████████████░░░░ 80.31% |
+| mac | `3 hrs 48 mins` | ████░░░░░░░░░░░░░░░░░ 19.69% |
+| **total** | **19 hrs 20 mins** | |
 **📁 projects**
 
 | project | time | usage |
 |:-----------|:-----|:------|
-| js-reactor | `21 hrs 11 mins` | ███████████████████░░ 90.43% |
-| game_server | `1 hrs 24 mins` | █░░░░░░░░░░░░░░░░░░░░ 5.98% |
-| downloads | `35 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.50% |
-| dist | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.33% |
-| unknown project | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.33% |
-| rcnicks.exe_extracted | `3 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.25% |
-| hutaoshusband | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
-| hutaocrypt | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.06% |
-| **total** | **23 hrs 26 mins** | |
+| js-reactor | `17 hrs 5 mins` | ███████████████████░░ 88.40% |
+| game_server | `1 hrs 24 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.25% |
+| downloads | `35 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.03% |
+| dist | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.40% |
+| unknown project | `4 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.40% |
+| rcnicks.exe_extracted | `3 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.30% |
+| hutaoshusband | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
+| hutaocrypt | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.07% |
+| **total** | **19 hrs 20 mins** | |
 
 <!--end_section:waka-->
 
