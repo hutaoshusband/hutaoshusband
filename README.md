@@ -84,54 +84,60 @@
 
 <!--start_section:waka-->
 
-**last 7 days** | total: **21 hrs 45 mins** | daily avg: **3 hrs 6 mins** | most active: **2026-05-22 (5 hrs 33 mins)**
+**last 7 days** | total: **25 hrs 49 mins** | daily avg: **3 hrs 41 mins** | most active: **2026-05-22 (5 hrs 33 mins)**
 
 **💻 languages**
 
 | language | time | usage |
 |:-----------|:-----|:------|
-| javascript | `4 hrs 59 mins` | █████░░░░░░░░░░░░░░░░ 22.91% |
-| c# | `4 hrs 36 mins` | ████░░░░░░░░░░░░░░░░░ 21.15% |
-| rust | `3 hrs 46 mins` | ████░░░░░░░░░░░░░░░░░ 17.36% |
-| c++ | `2 hrs 46 mins` | ███░░░░░░░░░░░░░░░░░░ 12.72% |
-| markdown | `2 hrs 9 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.91% |
-| powershell | `1 hrs 20 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.18% |
-| c | `39 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.00% |
-| git config | `21 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.67% |
-| assembly | `20 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.54% |
-| xml | `9 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.73% |
-| other | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.67% |
-| microsoft visual studio solution | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.56% |
-| brainfuck | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.48% |
-| json | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.46% |
-| css | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.21% |
-| python | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.14% |
-| yaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.13% |
-| xaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.12% |
-| html | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
-| **total** | **21 hrs 45 mins** | |
+| c++ | `5 hrs 8 mins` | ████░░░░░░░░░░░░░░░░░ 19.92% |
+| javascript | `4 hrs 50 mins` | ████░░░░░░░░░░░░░░░░░ 18.77% |
+| c# | `4 hrs 36 mins` | ████░░░░░░░░░░░░░░░░░ 17.82% |
+| rust | `2 hrs 10 mins` | ██░░░░░░░░░░░░░░░░░░░ 8.45% |
+| powershell | `1 hrs 58 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.63% |
+| markdown | `1 hrs 56 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.55% |
+| c | `53 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.47% |
+| cmake | `52 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.36% |
+| xml | `41 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.68% |
+| python | `38 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.49% |
+| php | `26 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.74% |
+| assembly | `20 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.30% |
+| bash | `17 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.11% |
+| batchfile | `15 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.97% |
+| other | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.56% |
+| git config | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.54% |
+| microsoft visual studio solution | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.47% |
+| brainfuck | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.40% |
+| json | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
+| css | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.17% |
+| xaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.10% |
+| html | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.07% |
+| csv | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
+| inno setup | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
+| **total** | **25 hrs 49 mins** | |
 **💾 operating systems**
 
 | os | time | usage |
 |:-----------|:-----|:------|
-| windows | `19 hrs 46 mins` | ███████████████████░░ 90.88% |
-| mac | `1 hrs 59 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.12% |
-| **total** | **21 hrs 45 mins** | |
+| windows | `24 hrs 20 mins` | ████████████████████░ 94.27% |
+| mac | `1 hrs 28 mins` | █░░░░░░░░░░░░░░░░░░░░ 5.73% |
+| **total** | **25 hrs 49 mins** | |
 **📁 projects**
 
 | project | time | usage |
 |:-----------|:-----|:------|
-| js-reactor | `10 hrs 25 mins` | ██████████░░░░░░░░░░░ 47.95% |
-| dnospy | `5 hrs 0 mins` | █████░░░░░░░░░░░░░░░░ 23.04% |
-| codename-pdr-cs2-kernel | `2 hrs 7 mins` | ██░░░░░░░░░░░░░░░░░░░ 9.78% |
-| fireflyprotector | `1 hrs 52 mins` | ██░░░░░░░░░░░░░░░░░░░ 8.59% |
-| fuckspotifyupdater | `1 hrs 29 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.83% |
-| hutaocrypt | `17 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.34% |
-| game_server | `13 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.02% |
-| unknown project | `11 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.89% |
-| ohh bot | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.43% |
-| hutaoshusband | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.13% |
-| **total** | **21 hrs 45 mins** | |
+| js-reactor | `8 hrs 23 mins` | ███████░░░░░░░░░░░░░░ 32.49% |
+| dnospy | `5 hrs 0 mins` | ████░░░░░░░░░░░░░░░░░ 19.42% |
+| hutaocrypt | `4 hrs 47 mins` | ████░░░░░░░░░░░░░░░░░ 18.59% |
+| codename-pdr-cs2-kernel | `2 hrs 7 mins` | ██░░░░░░░░░░░░░░░░░░░ 8.24% |
+| fireflyprotector | `1 hrs 52 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.24% |
+| fuckspotifyupdater | `1 hrs 29 mins` | █░░░░░░░░░░░░░░░░░░░░ 5.75% |
+| obfusk8_v2_portable | `48 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.11% |
+| prometheus-weare-devs-dumper | `31 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.06% |
+| fireflyprotector-website | `30 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.99% |
+| unknown project | `11 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.75% |
+| ohh bot | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.36% |
+| **total** | **25 hrs 49 mins** | |
 
 <!--end_section:waka-->
 
