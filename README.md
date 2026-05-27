@@ -29,7 +29,7 @@
         </a>
       </p>
       <p align="center">
-        software protection and virtualization research. active development of custom obfuscators and runtimes for lua, python, and javascript to mitigate static analysis and authorized reverse engineering.
+        software protection and virtualization research. active development of custom obfuscators and runtimes for lua, python, and javascript to mitigate static analysis and reverse engineering.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
