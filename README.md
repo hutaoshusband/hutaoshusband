@@ -29,7 +29,7 @@
         </a>
       </p>
       <p align="center">
-        software protection and virtualization research. active development of custom obfuscators and runtimes for lua, python, and javascript to mitigate static analysis and reverse engineering.
+        software protection and virtualization research. active development of custom obfuscators and runtimes for lua, python, and javascript to mitigate static analysis and authorized reverse engineering.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
@@ -53,7 +53,7 @@
         </a>
       </p>
       <p align="center">
-        private community centered around counter-strike 2 game hacking, reverse engineering, exploit development, and low-level programming.
+        private community centered around counter-strike 2 game analysing, authorized reverse engineering, and low-level programming.
       </p>
     </td>
     <td width="50%" valign="top" height="220">
