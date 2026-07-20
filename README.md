@@ -107,7 +107,6 @@
 | other | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.59% |
 | git config | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.57% |
 | microsoft visual studio solution | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.49% |
-| brainfuck | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.42% |
 | css | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
 | xaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.11% |
 | json | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
@@ -131,7 +130,6 @@
 | hutaocrypt | `5 hrs 0 mins` | ████░░░░░░░░░░░░░░░░░ 20.30% |
 | codename-pdr-cs2-kernel | `2 hrs 7 mins` | ██░░░░░░░░░░░░░░░░░░░ 8.63% |
 | fireflyprotector | `1 hrs 52 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.59% |
-| fuckspotifyupdater | `1 hrs 29 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.03% |
 | obfusk8_v2_portable | `48 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.26% |
 | prometheus-weare-devs-dumper | `31 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.16% |
 | fireflyprotector-website | `30 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.08% |
