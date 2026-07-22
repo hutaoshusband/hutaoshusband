@@ -80,65 +80,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hutaoshusband&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="trophies" />
 </div>
 
-### ⏱️ wakatime coding activity
-
-<!--start_section:waka-->
-
-**last 7 days** | total: **24 hrs 38 mins** | daily avg: **3 hrs 31 mins** | most active: **2026-05-22 (5 hrs 33 mins)**
-
-**💻 languages**
-
-| language | time | usage |
-|:-----------|:-----|:------|
-| c++ | `5 hrs 20 mins` | █████░░░░░░░░░░░░░░░░ 21.70% |
-| c# | `4 hrs 36 mins` | ████░░░░░░░░░░░░░░░░░ 18.68% |
-| javascript | `4 hrs 27 mins` | ████░░░░░░░░░░░░░░░░░ 18.07% |
-| powershell | `1 hrs 58 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.99% |
-| markdown | `1 hrs 36 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.55% |
-| rust | `1 hrs 36 mins` | █░░░░░░░░░░░░░░░░░░░░ 6.52% |
-| c | `53 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.64% |
-| cmake | `52 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.52% |
-| xml | `41 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.81% |
-| python | `38 mins` | █░░░░░░░░░░░░░░░░░░░░ 2.61% |
-| php | `26 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.82% |
-| assembly | `20 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.36% |
-| bash | `17 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.17% |
-| batchfile | `15 mins` | ░░░░░░░░░░░░░░░░░░░░░ 1.02% |
-| other | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.59% |
-| git config | `8 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.57% |
-| microsoft visual studio solution | `7 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.49% |
-| css | `2 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.18% |
-| xaml | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.11% |
-| json | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.09% |
-| html | `1 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.08% |
-| csv | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
-| inno setup | `0 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.01% |
-| **total** | **24 hrs 38 mins** | |
-**💾 operating systems**
-
-| os | time | usage |
-|:-----------|:-----|:------|
-| windows | `24 hrs 32 mins` | █████████████████████ 99.61% |
-| mac | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.39% |
-| **total** | **24 hrs 38 mins** | |
-**📁 projects**
-
-| project | time | usage |
-|:-----------|:-----|:------|
-| js-reactor | `7 hrs 5 mins` | ██████░░░░░░░░░░░░░░░ 28.75% |
-| dnospy | `5 hrs 0 mins` | ████░░░░░░░░░░░░░░░░░ 20.35% |
-| hutaocrypt | `5 hrs 0 mins` | ████░░░░░░░░░░░░░░░░░ 20.30% |
-| codename-pdr-cs2-kernel | `2 hrs 7 mins` | ██░░░░░░░░░░░░░░░░░░░ 8.63% |
-| fireflyprotector | `1 hrs 52 mins` | ██░░░░░░░░░░░░░░░░░░░ 7.59% |
-| obfusk8_v2_portable | `48 mins` | █░░░░░░░░░░░░░░░░░░░░ 3.26% |
-| prometheus-weare-devs-dumper | `31 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.16% |
-| fireflyprotector-website | `30 mins` | ░░░░░░░░░░░░░░░░░░░░░ 2.08% |
-| unknown project | `6 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.47% |
-| ohh bot | `5 mins` | ░░░░░░░░░░░░░░░░░░░░░ 0.38% |
-| **total** | **24 hrs 38 mins** | |
-
-<!--end_section:waka-->
-
 <div align="center">
   <sub>tags: hutaoshusband, hu tao's husband, game hacking, reverse engineering, binary protection, obfuscation, rust security, fireflyprotector</sub>
 </div>
