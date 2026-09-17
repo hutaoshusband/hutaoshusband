@@ -2,12 +2,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hutaoshusband.hutaoshusband" alt="visitor count" />
 </div>
 
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/33310a2ce96273174065a97b482de31e/5055027a25ccf478-00/s500x750/7050e3e2eba2e5604245bc6a403955e037de5d4d.gif" alt="hu tao banner" />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=game+hacking+%26+reverse+engineering;software+protection+%26+virtualization;rust+%7C+c%2B%2B+%7C+js+%7C+lua" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=game+modding+%26+reverse+engineering;software+protection+%26+virtualization;rust+%7C+c%2B%2B+%7C+js+%7C+lua" alt="typing svg" />
 </p>
 
 <p align="center">
@@ -69,10 +65,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img height="440" src="./hutao.gif" alt="hu tao gif" />
-</div>
 
 ### 📊 github profile trophies
 
