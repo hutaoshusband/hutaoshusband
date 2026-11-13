@@ -15,3 +15,6 @@ c++/c runtime engineering, memory instrumentation in game internals, releases an
 ### coding stats
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@hutaoshusband/8e59cf15-d526-4c55-b866-86c665bdb669.png" /></a>
+
+### profile
+[portfolio](https://77th.site/me), [wakatime](https://wakatime.com/@hutaoshusband), [youtube](https://www.youtube.com/@hutaoshusband), [telegram](https://t.me/hutaoshusband)
